@@ -1,0 +1,7 @@
+streamlit
+fastai
+torch
+torchvision
+pillow
+numpy
+matplotlib
